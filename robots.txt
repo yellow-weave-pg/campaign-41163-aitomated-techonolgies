@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://storage.googleapis.com/gbp-sites-storage/campaign-41163-aitomated-techonolgies/sitemap.xml
